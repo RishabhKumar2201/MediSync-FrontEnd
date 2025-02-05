@@ -6,19 +6,19 @@ import {RiLinkedinFill} from 'react-icons/ri'
 import {AiFillYoutube, AiFillGithub, AiOutlineInstagram} from 'react-icons/ai'
 const socialLinks = [  
     {
-        path: "https://www.youtube.com/channel/UCfUxVduZNuiDh5zCoeqVJpA",
+        path: "https://www.youtube.com/@RishabhKumar-ms9hz",
         icon:<AiFillYoutube className="group-hover:text-white w-4 h-5" />,
     }, 
     {
-        path: "https://github.com/Divyendu-Vimal",
+        path: "https://github.com/RishabhKumar2201",
         icon: <AiFillGithub className="group-hover:text-white w-4 h-5" />,
     },
     {
-        path: "https://www.instagram.com/divyendu_vimal/",
+        path: "https://www.instagram.com/rishabhkumar2201/",
         icon:<AiOutlineInstagram className="group-hover:text-white w-4 h-5" />,
     },
     {
-        path: "https://www.linkedin.com/in/divyendu-vimal-99ba9121b/",
+        path: "https://www.linkedin.com/in/rishabh-kumar-5b3242228/",
         icon:<RiLinkedinFill className="group-hover:text-white w-4 h-5"/>,
     },
 ];
